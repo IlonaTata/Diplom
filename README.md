@@ -33,3 +33,9 @@
    
            app/src/androidTest/java/ru/iteco/fmhandroid/ui/tests/
 
+*Отчетная документация:*
+
+ - Чек-лист
+   https://docs.google.com/spreadsheets/d/1GiHi11RUVp31G7hbyIsqyqxDfQChsMYlkvlsJoDb9Zc/edit?usp=sharing
+ - Тест-кейсы
+   https://docs.google.com/spreadsheets/d/1Lys2A0VYhmgMwUtdkdAwJebmhiwsJPT3R6D3emMeavw/edit?usp=sharing

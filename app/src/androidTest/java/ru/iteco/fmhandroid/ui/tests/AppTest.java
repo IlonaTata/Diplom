@@ -25,8 +25,8 @@ public class AppTest {
     public IntentsTestRule intentsTestRule =
             new IntentsTestRule(AppActivity.class);
 
-    String validLogin = "login2";
-    String validPassword = "password2";
+    String validLogin = " login2 ";
+    String validPassword = " password2 ";
 
 
     @Test
